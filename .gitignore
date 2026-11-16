@@ -1,0 +1,14 @@
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+*.bak
+*.backup
+*.orig
+*.sql~
+versiones-redactadas/
+*.log
+!LAB-03/evidencias/E5-bitacora-postgresql.log
+!LAB-03/evidencias/E6-mongodb/bitacora-mongod.log
